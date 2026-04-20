@@ -3,10 +3,10 @@ User experienced interruption in Thunderbird access.
 
 <h2>Skills and Tools:</h2>
 
--Remote Desktop (AnyDesk)
--Domain knowledge of networking and security
--Diagnostic and verification skills
--User communication and customer-service skills
+-Remote Desktop (AnyDesk)\
+-Domain knowledge of networking and security\
+-Diagnostic and verification skills\
+-User communication and customer-service skills\
 -Structured troubleshooting methodology
 
 <h2>Initial information:</h2>
