@@ -22,7 +22,7 @@ Thunderbird is unable to connect to comcast email service
 1. <s>Internet disconnect
 2. Comcast outage
 3. System firewall configuration change</s>
-4. Invalid credentials/security flag
+4. Invalid credentials/security flag &#9989;
 
 <h3>Test the Theory to Determine the Cause: </h3>
 
